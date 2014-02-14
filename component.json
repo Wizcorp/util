@@ -1,0 +1,14 @@
+{
+  "name": "util",
+  "repo": "Wizcorp/util",
+  "description": "A Node.js compatible util module",
+  "version": "0.1.0",
+  "keywords": ["inherit"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
